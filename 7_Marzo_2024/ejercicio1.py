@@ -1,0 +1,2 @@
+nombre = "ChatGPT"
+print(nombre)
